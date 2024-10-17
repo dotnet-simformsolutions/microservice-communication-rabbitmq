@@ -1,0 +1,30 @@
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\bin\Debug\net8.0\Order.Domain.deps.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\bin\Debug\net8.0\Order.Domain.runtimeconfig.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\bin\Debug\net8.0\Order.Domain.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\bin\Debug\net8.0\Order.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\refint\Order.Domain.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.genruntimeconfig.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Domain\obj\Debug\net8.0\ref\Order.Domain.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\bin\Debug\net8.0\Order.Domain.deps.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\bin\Debug\net8.0\Order.Domain.runtimeconfig.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\bin\Debug\net8.0\Order.Domain.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\bin\Debug\net8.0\Order.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\refint\Order.Domain.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\Order.Domain.genruntimeconfig.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Domain\obj\Debug\net8.0\ref\Order.Domain.dll

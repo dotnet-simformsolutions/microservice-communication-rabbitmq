@@ -1,0 +1,30 @@
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\bin\Debug\net8.0\JWTAuthantication.deps.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\bin\Debug\net8.0\JWTAuthantication.runtimeconfig.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\bin\Debug\net8.0\JWTAuthantication.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\bin\Debug\net8.0\JWTAuthantication.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\refint\JWTAuthantication.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.genruntimeconfig.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\JWTAuthantication\obj\Debug\net8.0\ref\JWTAuthantication.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\bin\Debug\net8.0\JWTAuthantication.deps.json
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\bin\Debug\net8.0\JWTAuthantication.runtimeconfig.json
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\bin\Debug\net8.0\JWTAuthantication.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\bin\Debug\net8.0\JWTAuthantication.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\refint\JWTAuthantication.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\JWTAuthantication.genruntimeconfig.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\JWTAuthantication\obj\Debug\net8.0\ref\JWTAuthantication.dll

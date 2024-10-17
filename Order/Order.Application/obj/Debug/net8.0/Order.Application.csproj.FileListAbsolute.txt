@@ -1,0 +1,36 @@
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\bin\Debug\net8.0\Order.Application.deps.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\bin\Debug\net8.0\Order.Application.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\bin\Debug\net8.0\Order.Application.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\bin\Debug\net8.0\Order.Domain.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\bin\Debug\net8.0\Order.Infrastructure.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\bin\Debug\net8.0\Order.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\bin\Debug\net8.0\Order.Infrastructure.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\Order.Application.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\Order.Application.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\Order.Ap.8554589A.Up2Date
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\Order.Application.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\refint\Order.Application.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\Order.Application.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Order\Order.Application\obj\Debug\net8.0\ref\Order.Application.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\bin\Debug\net8.0\Order.Application.deps.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\bin\Debug\net8.0\Order.Application.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\bin\Debug\net8.0\Order.Application.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\bin\Debug\net8.0\Order.Domain.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\bin\Debug\net8.0\Order.Infrastructure.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\bin\Debug\net8.0\Order.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\bin\Debug\net8.0\Order.Infrastructure.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\Order.Application.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\Order.Application.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\Order.Ap.8554589A.Up2Date
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\Order.Application.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\refint\Order.Application.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\Order.Application.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Order\Order.Application\obj\Debug\net8.0\ref\Order.Application.dll

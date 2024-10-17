@@ -1,0 +1,30 @@
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\bin\Debug\net8.0\Product.Domain.deps.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\bin\Debug\net8.0\Product.Domain.runtimeconfig.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\bin\Debug\net8.0\Product.Domain.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\bin\Debug\net8.0\Product.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\refint\Product.Domain.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.genruntimeconfig.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Product\Product.Domain\obj\Debug\net8.0\ref\Product.Domain.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\bin\Debug\net8.0\Product.Domain.deps.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\bin\Debug\net8.0\Product.Domain.runtimeconfig.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\bin\Debug\net8.0\Product.Domain.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\bin\Debug\net8.0\Product.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\refint\Product.Domain.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\Product.Domain.genruntimeconfig.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Product\Product.Domain\obj\Debug\net8.0\ref\Product.Domain.dll

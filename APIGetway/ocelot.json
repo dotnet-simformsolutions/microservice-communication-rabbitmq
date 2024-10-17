@@ -1,0 +1,164 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7195",
+    "RequestIdKey": "OcRequestId",//for getting unique id for apis
+    "RateLimitOptions": {
+      "QuotaExceededMessage": "Too Many request are now allowed",
+      "HttpStatusCode": 429
+    }// for set custom message for rate limit
+  },
+  "Routes": [
+    //seprated config for every apis
+    {
+      "UpstreamPathTemplate": "/gateway/product",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "DownstreamPathTemplate": "/api/product",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44336
+        }
+      ],
+      "RateLimitOptions": {
+        "EnableRateLimiting": true,
+        "Period": "30s",
+        "PeriodTimespan": 30,
+        "Limit": 2
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/GetByProductid/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/product/GetByProductid?id={id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44336
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/OrderNow",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/Order",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/GetOrderById/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/GetOrderById/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/GetOrderByUser/{userEmail}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/GetOrderByUser/{userEmail",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ]
+    },
+    //hosted url
+    {
+      "UpstreamPathTemplate": "/gateway/test",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/employees",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "dummy.restapiexample.com",
+          "Port": 443
+        }
+      ]
+    },
+    //common for microsevice
+    {
+      "UpstreamPathTemplate": "/gatewayanything/{anything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "DownstreamPathTemplate": "/api/{anything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44336
+        }
+      ]
+    },
+
+    //load balacing
+    {
+      "UpstreamPathTemplate": "/gatewayload/{anything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "DownstreamPathTemplate": "/api/{anything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44336
+        },
+        {
+          "Host": "localhost",
+          "Port": 44327
+        }
+      ],
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+    },
+    //authentication
+    {
+      "UpstreamPathTemplate": "/gateway/authenticate",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/Account",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7049
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gatewayauth/{anything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT" ],
+      "DownstreamPathTemplate": "/api/{anything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44336
+        }
+      ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer"
+      },
+      "RouteClaimsRequirement": {
+        "Role": "admin"
+      },
+      "RateLimitOptions": {
+        "EnableRateLimiting": true,
+        "Period": "30s",
+        "PeriodTimespan": 30,
+        "Limit": 2
+      }
+    }
+
+  ]
+  }

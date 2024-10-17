@@ -1,0 +1,162 @@
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\appsettings.Development.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\appsettings.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Authentication.API.exe
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Authentication.API.deps.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Authentication.API.runtimeconfig.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Authentication.API.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Authentication.API.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Azure.Core.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\JWTAuthantication.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\bin\Debug\net8.0\JWTAuthantication.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.MvcApplicationPartsAssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.MvcApplicationPartsAssemblyInfo.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\staticwebassets\msbuild.Authentication.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Authentication.API.props
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.API.props
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Authentication.API.props
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\scopedcss\bundle\Authentication.API.styles.css
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authenti.42C78034.Up2Date
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\refint\Authentication.API.dll
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.pdb
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\Authentication.API.genruntimeconfig.cache
+C:\LearningProject\c#\Microservice_demo\E-commerce_Ocelot\Authentication.API\obj\Debug\net8.0\ref\Authentication.API.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\appsettings.Development.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\appsettings.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Authentication.API.exe
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Authentication.API.deps.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Authentication.API.runtimeconfig.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Authentication.API.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Authentication.API.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Azure.Core.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\JWTAuthantication.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\bin\Debug\net8.0\JWTAuthantication.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.csproj.AssemblyReference.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.AssemblyInfoInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.AssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.csproj.CoreCompileInputs.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.MvcApplicationPartsAssemblyInfo.cs
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.MvcApplicationPartsAssemblyInfo.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.sourcelink.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\staticwebassets\msbuild.Authentication.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Authentication.API.props
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.API.props
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Authentication.API.props
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\scopedcss\bundle\Authentication.API.styles.css
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authenti.42C78034.Up2Date
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\refint\Authentication.API.dll
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.pdb
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\Authentication.API.genruntimeconfig.cache
+C:\LearningProject\c#\Microservice_demo\Git repo\Authentication.API\obj\Debug\net8.0\ref\Authentication.API.dll
