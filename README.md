@@ -42,7 +42,7 @@ Ensure the following are installed:
 
 ## Project Structure
 
-- **Order Service**: Handles order creation and processing.
-- **Product Service**: Manages product inventory and stock levels.
-- **Authentication API**: Authenticates users for secure access to services.
-- **API Gateway**: Provides access to the Order and Product microservices, acting as a single entry point.
+- **Order.API**: Handles order creation and processing.
+- **Product.API**: Manages product inventory and stock levels.
+- **Authentication.API**: Authenticates users for secure access to services.
+- **APIGateway**: Provides access to the Order and Product microservices, acting as a single entry point.
