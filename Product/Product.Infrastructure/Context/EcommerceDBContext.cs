@@ -24,7 +24,7 @@ namespace Product.Infrastructure
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=SF-LAP-453;Database=EcommerceDB;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Database Connection string");
             }
         }
 
