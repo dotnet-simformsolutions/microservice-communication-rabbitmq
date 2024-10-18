@@ -34,11 +34,6 @@ Ensure the following are installed:
 2. Set up environment variables:
    - Configure environment variables in `appsettings.json` for database connection strings, message broker settings, and other required configurations.
 
-3. Set up Docker for RabbitMQ:
-    ```bash
-    docker pull rabbitmq:3-management
-    docker run --rm -it -p 15672:15672 -p 5672:5672 rabbitmq:3-management
-    ```
 
 ## Project Structure
 
